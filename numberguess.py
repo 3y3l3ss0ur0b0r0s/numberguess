@@ -1,9 +1,3 @@
-# Number Guess is a beginner Python project that will help develop knowledge of:
-    # Binary search divide and conquer search algorithm
-    # https://www.youtube.com/watch?v=8ext9G7xspg&t=4553s
-
-# Binary search must be used on an ordered collection
-
 import random
 
 def binary_search(l,target,low=None,high=None):
